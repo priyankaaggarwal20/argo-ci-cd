@@ -22,4 +22,5 @@ jobs:
           context: .
           push: true
           tags: |
-            ghcr.io/user-name/we45-app:latest
+            ghcr.io/priyankaaggarwal20/we45-app:latest
+            
